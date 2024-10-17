@@ -1,0 +1,1 @@
+docker build -t meu_projeto_mlops.
